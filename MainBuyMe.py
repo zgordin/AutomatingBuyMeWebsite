@@ -147,7 +147,6 @@ if __name__ == '__main__':
     # Validate the below information (compare the text fields with what
     # you had enter to preview text fields):
     validate_receiver_sender()
-    print("world")
 
 
 
