@@ -150,6 +150,7 @@ if __name__ == '__main__':
     #Comment test
     print("x")
     print("m")
+    print("G")
 
 
 
